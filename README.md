@@ -1,4 +1,5 @@
-![Screenshot 2025-05-23 at 7 37 43 PM](https://github.com/user-attachments/assets/60dcdab3-b8aa-4867-8b2e-61ca15a45955)# Mesob - A Modern Fullstack Event Monitoring SaaS
+Mesob - A Modern Fullstack Event Monitoring SaaS
+![Uploading Screenshot 2025-05-23 at 7.37.43 PM.png…]()
 
 Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 
