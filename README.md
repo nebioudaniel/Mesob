@@ -3,7 +3,6 @@ Mesob - A Modern Fullstack Event Monitoring SaaS
 
 Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 
-![Project Image](https://github.com/nebioudaniel/Mesob/blob/main/public/thumbnail.png)
 ![Uploading Screenshot 2025-05-23 at 7.37.43 PM.png…]()
 ## Features
 
