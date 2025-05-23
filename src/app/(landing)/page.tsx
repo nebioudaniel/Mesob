@@ -33,10 +33,10 @@ const Page = () => {
           <div className="relative mx-auto text-center flex flex-col items-center gap-10">
             <div>
               <Heading>
-                <span>ቅጽበታዊ የ SaaS ግንዛቤዎች፣</span>
+                <span>ቅጽበታዊ የሶፍትዌርዎ ሁኔታዎች፣</span>
                 <br />
                 <span className="relative bg-gradient-to-r from-orange-600 to-orange-700 text-transparent bg-clip-text">
-                  ወደ ዲስኮርድዎ የሚደርሱ
+                  ወደ ቴሌግራሞ የሚደርስበት ሲስተም
                 </span>
               </Heading>
             </div>
