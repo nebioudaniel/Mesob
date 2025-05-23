@@ -26,18 +26,18 @@ export const AccountSettings = ({
   return (
     <Card className="max-w-xl w-full space-y-4">
       <div className="pt-2">
-        <Label>Discord ID</Label>
+        <Label>Telegram ID</Label>
         <Input
           className="mt-1"
           value={discordId}
           onChange={(e) => setDiscordId(e.target.value)}
-          placeholder="Enter your Discord ID"
+          placeholder="Enter your Telegram ID"
         />
       </div>
 
       <p className="mt-2 text-sm/6 text-gray-600">
-        Don't know how to find your Discord ID?{" "}
-        <Link href="#" className="text-brand-600 hover:text-brand-500">
+        Don't know how to find your Telegram ID?{" "}
+        <Link href="https://mesobai.com" className="text-brand-600 hover:text-brand-500">
           Learn how to obtain it here
         </Link>
         .
